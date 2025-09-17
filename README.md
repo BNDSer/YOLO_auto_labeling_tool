@@ -70,6 +70,13 @@ python labeling_toolv8_yolov8.py
 
 - 支持多类别、多目标，每个目标的类别和关键点数自动识别。
 
+## 8. 注
+
+- 如果要使用早些版本的仅自动标注脚本，请访问
+- only_auto_label_yolov8.py
+- 如果要使用仅支持人工标注的可视化工具，请访问
+- labeling_tool_without_ai.py
+
 ## 常见问题
 
 - **自动标注依赖 ultralytics**  
