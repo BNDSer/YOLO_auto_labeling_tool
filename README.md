@@ -93,6 +93,6 @@ python labeling_toolv8_yolov8.py
 ---
 
 **作者：ZichenFeng**  
-**项目地址：** [GitHub 仓库链接（请补充）]
+**项目地址：** (https://github.com/BNDSer/YOLO_auto_labeling_tool/)
 
 ---
